@@ -1,3 +1,7 @@
+//TITLE: DHT11 and LDR Sensor Data Display on OLED
+//ZAIN RAZA ZAIDI
+//23-NTU-CS-B-1096
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>

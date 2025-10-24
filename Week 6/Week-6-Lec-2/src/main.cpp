@@ -1,3 +1,8 @@
+//Title: LDR light intensity display on OLED
+//ZAIN RAZA ZAIDI
+//23-NTU-CS-B-1096
+
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
